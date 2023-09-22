@@ -5,9 +5,9 @@
 2. stop throwing TE screens
 3. leave Brian Ferentz in Iowa
 # How to Run Program
-hahahahah emoji 😂
+*hahahahah you can use emojis* 😂
 # Files Used
 ~penn state is~ 👎
 # Additional Documentation
-=don't forget=[title](https://www.espn.com/college-football/game/_/gameId/401282758)
+==don't forget==[title](https://www.espn.com/college-football/game/_/gameId/401282758)
 # Versioning
